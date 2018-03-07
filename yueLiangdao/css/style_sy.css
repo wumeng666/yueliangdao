@@ -1,0 +1,44 @@
+.main{
+	width: 1350px;
+	margin: 0 auto;
+}
+.main h2{
+	height: 40px;
+	float: left;
+}
+.main h3{
+	height: 40px;
+	float: right;
+	color: #ccc;
+	margin-left: 5px;
+}
+.dian{
+	text-align: center;
+}
+.float{
+	float: left;
+}
+.clear{
+	clear:both;
+}
+.main h3 a:hover{
+      color: #000;
+}
+#smallzi .demo{
+	padding-left: 270px;
+}
+#smallzi .deml{
+	padding-left: 170px;
+}
+.tp{
+	width: 1360px;
+	margin:0 auto;
+}
+.dd{
+	position: absolute;
+	bottom: -1560px;
+	right: 0px;
+}
+.all{
+	font-weight: bold;
+}

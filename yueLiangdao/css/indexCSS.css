@@ -1,0 +1,15 @@
+.outer{
+    width: 1920px;margin: 0 auto;overflow: hidden;
+}
+.inner{
+    width: 1920px;overflow: hidden;
+}
+.rongqi{
+    width: 5760px;
+}
+.rongqi img{
+    float: left;
+}
+.xz-dian li{
+ list-style: none;width: 10px;height: 10px;background: white;border-radius: 5px;border: 1px solid #E0E0DF;float: left;
+}

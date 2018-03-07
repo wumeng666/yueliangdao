@@ -1,0 +1,81 @@
+#left{
+    float: left;
+}
+#ce{
+    width:3px;
+    height:12px;
+    background: #f27e42;
+}
+#ce1{
+    margin-top: -15px;
+    margin-left: 10px;
+}
+li{
+    list-style: none;
+}
+#ji li a{
+    color: black;
+}
+#left{
+    font-size: 13.33px;
+}
+#left li{
+    margin-top: 25px;
+}
+#left a{
+    font-weight: bold;
+    margin-left: 18px;
+}
+#left img{
+    margin-left: -30px;
+}
+#div{
+    float: left;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+#shou{
+    width:940px;
+    height: 270px;
+    margin-top: 20px;
+    /*border:1px solid #ccc;*/
+}
+#hei{
+    background:#363636;
+    color:white;
+    height: 40px;
+    font-size: 13.33px;
+    border: 0px;
+}
+#hui{
+    background: #f1f1f1;
+    height: 40px;
+    font-size: 13.33px;
+}
+#yan{
+    text-align: center;
+}
+#yan td{
+    height: 125px;
+}
+#shou td{
+/*text-align: center;*/
+font-size: 13.33px;
+}
+.he{text-align:center;}
+.hei_{width:269px;}
+.hei5{width:200px;margin-right: 20px; }
+.hei4{width:68px;text-align:center;}
+.hei3{width:68px;text-align:center;}
+.hei2{width:68px;text-align:center;}
+.hei1{width:269px;text-align:left;}
+span.sc{
+    font-size: 18.67px;
+}
+#dong{
+    text-align: left;
+}
+#kuang{
+    width:940px;
+    border:1px solid #ccc;
+}

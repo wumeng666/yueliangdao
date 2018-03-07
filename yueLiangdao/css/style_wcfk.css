@@ -1,0 +1,127 @@
+.title{
+	width: 995px;
+	height: 700px;
+	/*border:1px solid red;*/
+	margin:0 auto;
+}
+.first_1 li{
+	list-style: none;
+}
+li{
+	list-style: none;
+}
+
+
+
+.shop-line{
+	float: left;
+	width: 98px;
+	border:1px solid #000;
+}
+.border-black{
+	border-color: #000!important;
+}
+.bg-black{
+	background-color: #000!important;
+}
+.clear-fix::after{
+	content: '';
+	display: block;
+	width: 0;
+	height: 0;
+	clear: both;
+}
+.line_ul{
+	width: 430px;
+	margin:0 auto;
+}
+.shop-block{
+	position: relative;
+	top: -4px;
+	float: left;
+	width: 10px;
+	height: 10px;
+	background-color: #000;
+}
+.piao{
+	margin-left: 80px;
+}
+.guo{
+	float: left;
+	margin-left: 150px;
+}
+.lal{
+	float: left;
+	margin-left: 135px;
+}
+.lol{
+	float: left;
+	margin-left: 150px;
+}
+
+
+
+.one{
+	margin-top: 80px;
+	text-align: center;
+}
+.two{
+	width: 995px;
+	height: 95px;
+	background-color: #ccc;
+}
+.two ul li{
+	font-size: 13px;
+	float: left;
+	margin-top: 25px;
+	font-family: 微软雅黑;
+}
+.two_1{
+	margin-top: 25px;
+	margin-left: 20px;	
+}
+.two_2{
+	color: red;
+	font-weight: bold;
+}
+.two_3{margin-left: 20px;}
+.two_4{color: blue;}
+.two_5{margin-left: 20px;}
+.two_6{color: blue;}
+.four{
+	float: left;
+	margin-left: -410px;
+	margin-top: 35px;
+}
+.fu{
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 60px;
+}
+.wan{
+	width: 995px;
+	height: 120px;
+	border:1px solid #ccc;
+}
+.zou{
+	width: 207px;
+	height: 50px;
+	border:3px solid red;
+	float: left;
+	position: relative;
+}
+.zui{
+	margin-top: 34px;
+	margin-left: 22px;
+}
+.none{
+	position: absolute;
+	margin-left: -24px;
+}
+.le{
+	width: 207px;
+	height: 50px;
+	border:3px solid #ccc;
+	float: left;
+	margin-left: 40px;
+}

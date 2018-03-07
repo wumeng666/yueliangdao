@@ -1,0 +1,300 @@
+.title1{
+	width: 990px;
+	height: 700px;
+	margin:0 auto;
+}
+*{
+	margin:0;
+	padding:0;
+}
+.first li{
+	list-style: none;
+	margin-left: 40px;
+}
+.line_ul li{
+	list-style: none;
+}
+.shop-line{
+	float: left;
+	width: 98px;
+	border:1px solid #ccc;
+}
+.border-black{
+	border-color: #000!important;
+}
+.bg-black{
+	background-color: #000!important;
+}
+.clear-fix::after{
+	content: '';
+	display: block;
+	width: 0;
+	height: 0;
+	clear: both;
+}
+.line_ul{
+	width: 430px;
+	margin:0 auto;
+}
+.shop-block{
+	position: relative;
+	top: -4px;
+	float: left;
+	width: 10px;
+	height: 10px;
+	background-color: #ccc;
+}
+.piao li{
+	list-style: none;
+	float: left;
+	font-size: 20px;
+}
+.piao{
+	margin-left: 80px;
+}
+.guo{
+	margin-left: 150px;
+}
+.lal{
+	margin-left: 120px;
+	color: #ccc;
+}
+.lol{
+	margin-left: 130px;
+	color: #ccc;
+}
+.main{
+	width: 990px;
+	height: 43px;
+	background-color: #000;
+	margin-top: 85px;
+	position: relative;
+}
+.main_1 img{
+	border-radius: 8px;
+	font-weight: bold;
+	position: absolute;
+	margin-top: 13px;
+	margin-left: 27px;
+}
+.main_1{
+	list-style: none;
+	color: white;
+}
+.main_1-1,.main_2,.main_3,.main_4,.main_5,.main_6{
+	color: #ccc;
+	float: left;
+	margin-top: 13px;
+}
+.main_1-1{margin-left: 60px;}
+.main_2{margin-left: 140px;}
+.main_3{margin-left: 225px;}
+.main_4{margin-left: 130px;}
+.main_5{margin-left: 80px;}
+.main_6{margin-left: 90px;}
+.botton{
+	width: 990px;
+	height: 255px;
+	border: 1px solid #ccc;
+	margin-top: 10px;
+}
+.botton .botton_2 ul li{
+	list-style: none;
+}
+.botton_1{
+	width: 18px;
+	height: 18px;
+	border-radius: 8px;
+	background-color: #484848;
+	float: left;
+	margin-top: 100px;
+	margin-left: 28px;
+}
+.botton_1 img{
+	margin-bottom: 1px;
+	margin-left: 3px;
+}
+.botton_2{
+	width: 119px;
+	height: 82px;
+	border: 1px solid #ccc;
+	margin-top: 15px;
+	margin-left: 28px;
+	float: left;
+}
+.botton_2-3{
+	margin-top: 23px;
+}
+.botton_3{
+	font-size: 13px;
+	float: left;
+	font-family: 微软雅黑;
+}
+.fu{
+	margin-top: 30px;
+	margin-left: 28px;
+}
+.zhu{
+	margin-left: 32px;
+	margin-top: 6px;
+	color: #ccc;
+}
+.big{
+	font-size: 13px;
+	color: #ccc;
+	float: left;
+	margin-top: 133px;
+	margin-left: -90px;
+}
+.big tr td{
+	width: 45px;
+	height: 18px;
+}
+.smore{
+	width: 95px;
+	height: 30px;
+	border: 1px solid #ccc;
+}
+.fix{
+	float: left;
+	margin-top: 90px;
+	margin-left: 35px;
+}
+.fix tr td{
+	width: 30px;
+	height: 30px;
+	border: 1px solid #ccc;
+	
+}
+.fei{
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+.top{
+	float: left;
+	margin-top: 50px;
+	margin-left: 105px;
+}
+.bottom{
+	float: left;
+	margin-left: 105px;
+	margin-top: 90px;
+}
+.top1{
+	float: left;
+	margin-top: 50px;
+	margin-left: 74px;
+}
+.bottom1{
+	float: left;
+	margin-top: 90px;
+	margin-left: 74px;
+}
+.botton_6{
+	float: left;
+	font-size: 13px;
+	margin-top: -95px;
+	margin-left: 450px;
+	color: #ccc;
+}
+.botton_6 td{
+	width: 60px;
+	height: 30px;
+}
+.yao{
+	text-align: center;
+}
+.di ul li{
+	list-style: none;
+	float: left;
+}
+.tow{
+	width: 65px;
+	height: 20px;
+	background-color: #0f0f0f;
+	color: white;
+	text-align: center;
+	margin-top: 18px;
+}
+.tow1{
+	margin-left: 20px;
+	margin-top: 18px;
+	color: #ccc;
+}
+.quan{
+	width: 890px;
+	height: 50px;
+	clear: both;
+	float: left;
+	margin-top: 60px;
+	background-color: #ccc;
+}
+.wan{
+	width: 16px;
+	height: 16px;
+	float: left;
+	margin-top: 18px;
+	margin-left: 28px;
+	border-radius: 8px;
+	background-color: white;
+}
+.quan ul li{
+	list-style: none;
+}
+.wan_1{
+	font-size: 15px;
+	float: left;
+	margin-left: 20px;
+	margin-top: 18px;
+}
+.wan_2{
+	font-size: 15px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 18px;
+	color: blue;
+}
+.wan_3{
+	font-size: 15px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 18px;
+}
+.wan_4{
+	font-size: 15px;
+	float: left;
+	margin-left: 150px;
+	margin-top: 8px;
+}
+.wan_6{
+	font-size: 5px;
+	float: left;
+	margin-left: -80px;
+	margin-top: 25px;
+}
+.wan_5{
+	font-size: 15px;
+	float: left;
+	margin-left: 80px;
+	margin-top: 18px;
+	color: red;
+	font-weight: bold;
+}
+.lala{
+	width: 180px;
+	height: 50px;
+	float: left;
+	background-color: orange;
+}
+.wam{
+	width: 100px;
+	height: 50px;
+	float: right;
+	margin-top: 60px;
+	background-color: orange;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	line-height: 50px;
+}

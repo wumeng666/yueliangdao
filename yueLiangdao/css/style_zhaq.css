@@ -1,0 +1,272 @@
+#ding{
+	/*height: 150px;*/
+}
+#body{
+	width: 1350px;
+	margin: 0 auto;
+}
+#hezi{
+	width: 1120px;
+	margin: 0 auto;
+}
+#zhu_{
+	width: 300px;
+	font-size: 13px;
+	font-family: '宋体';
+}
+#gun{
+	width: 3px;
+	height: 13px;
+	background-color: #f27e42;
+	float: left;
+	margin-right: 5px;
+}
+#ul{
+	font-size: 13px;
+	font-family: '宋体';
+	width: 130px;
+	margin-top: 50px;
+	float: left;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+#ul li{
+	list-style: none;
+	padding-bottom: 22px;
+}
+#box1{
+	height: 150px;
+}
+#box2{
+	height: 180px;
+}
+#box3{
+	position: relative;
+}
+#pic{
+	position: absolute;
+	top: 77px;
+	left: 10px;
+}
+#la{
+	font-weight: bold;
+	text-decoration: underline;
+}
+#kuang{
+	width: 942px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 40px;
+}
+#kuang h3{
+	font-size: 19px;
+}
+#ku{
+	width: 942px;
+	height: 642px;
+	border:1px solid #e5e5e5;
+}
+#aq{
+	height: 40px;
+	line-height: 40px;
+	font-size: 13px;
+	font-weight: bold;
+	background-color: #f1f1f1;
+	padding-left: 15px;
+}
+#ta{
+	padding: 30px 80px;
+}
+.ta1{
+	padding: 40px 0;
+	border-bottom: 1px solid #f1f1f1;
+}
+.ta2{
+	font-size: 13px;
+	padding-top:20px;
+}
+.ta2 .p1{
+	font-weight: bold;
+}
+.ta1 li{
+	list-style: none;
+	float: left;
+}
+.ta1 .s1{
+	width: 66px;
+}
+.ta1 .s2{
+	width: 116px;
+	font-size: 16px;
+}
+.ta1 .s3{
+	width: 520px;
+	color: #888;
+	font-size: 13px;
+}
+.ta1 .s4{
+	width: 76px;
+	font-size: 13px;
+	
+	text-align: center;
+}
+.ta1 .s4{
+	color: #939393;
+	cursor: pointer;
+}
+.ta1 .s5{
+	width: 702px;
+	font-size: 16px;
+}
+#youxiang{
+	display: none;
+	width: 942px;
+	padding-top: 110px;
+}
+#youxiang form{
+	width: 320px;
+	margin: 0 auto;
+}
+.btn{
+	width: 137px;
+	height: 31px;
+	border: 0px;
+	outline: none;
+	border-radius: 3px;
+	background-color: #c50d32;
+	color: white;
+}
+#text{
+	width: 219px;
+	height: 30px;
+	outline: none;
+	border:1px solid #bbb;
+}
+#youxiang table td{
+	text-align: center;
+	padding: 10px 0;
+}
+#zi{
+	width: 942px;
+	padding-top: 130px;
+	font-size: 24px;
+	text-align: center;
+	font-family: "黑体";
+	display: none;
+}
+#mima{
+	padding: 100px 0;
+	display: none;
+}
+#table{
+	padding-bottom: 100px;
+}
+#table td{
+	width: 135px;
+	text-align: center;
+}
+#mima p{
+	text-align: center;
+	font-size: 13px;
+}
+#mima table{
+	margin: 0 auto;
+}
+#mima #table1{
+	padding: 50px;
+	font-size: 13px;
+}
+#mima #table1 td{
+	padding-bottom: 40px;
+	text-align: center;
+}
+#mima #table1 .t1{
+	width: 66px;
+	height: 28px;
+	border:1px solid #bbb;
+	outline: none;
+}
+#mima #table1 .b1{
+	width: 100px;
+	height: 30px;
+	border:0px;
+	background-color: #ededed;
+	border-radius: 3px;
+	outline: none;
+}
+#mima #table1 .b2{
+	width: 100px;
+	height: 30px;
+	color: white;
+	font-size: 13px;
+	border:1px solid #292929;
+	background-color: #292929;
+	border-radius: 3px;
+	outline: none;display: none;
+}
+#mima #table1 .b3{
+	width: 138px;
+	height: 30px;
+	border:0px;
+	color: white;
+	font-size: 16px;
+	background-color: #c50d32;
+	border-radius: 3px;
+	outline: none;
+
+}
+#mi{
+	padding: 100px 0;
+	display: none;
+}
+#mi #tables{
+	font-size: 13px;
+}
+#mi table{
+	margin: 0 auto;
+}
+#mi #tables #text1{
+	width: 220px;
+	height: 30px;
+	border:1px solid #bbb;
+	outline: none;
+}
+#mi #tables #text2{
+	width: 220px;
+	height: 30px;
+	border:1px solid #bbb;
+	outline: none;
+}
+#mi #tables td{
+	padding: 9px 0;
+	text-align: center;
+}
+#mi #tables .b4{
+	width: 138px;
+	height: 30px;
+	border:0px;
+	color: white;
+	font-size: 16px;
+	background-color: #c50d32;
+	border-radius: 3px;
+	outline: none;
+}
+#mi #tables #td1{
+	display: none;
+}
+#mi #tables #td2{
+	display: none;
+}
+ #zi1{
+	width: 942px;
+	padding: 150px 0;
+	font-size: 16px;
+	text-align: center;
+	display: none;
+}
+#di{
+	clear: both;
+	height:100px;
+}

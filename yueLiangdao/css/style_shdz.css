@@ -1,0 +1,107 @@
+#left{
+    float: left;
+}
+#ce{
+    width:3px;
+    height:12px;
+    background: #f27e42;
+   
+}
+#ce1{
+    margin-top: -15px;
+    margin-left: 10px;
+   
+}
+li{
+    list-style: none;
+}
+#ji li a{
+    color: black;
+} 
+#mainhh #left{
+    font-size: 13px;
+}
+#left li{
+    margin-top: 25px;
+}
+#left a{
+    font-weight: bold;
+    margin-left: 18px;
+}
+#left img{
+    margin-left: -30px;
+}
+#right{
+    float: left;
+    margin-left: 65px;
+    margin-top: 30px;
+}
+#h2{
+    font-size: 18.67px;
+}
+#right table td{
+    font-size: 13.33px;
+}
+#zhi{
+    width:940px;
+    height: 40px;
+    background: #f1f1f1;
+    margin-top: -18px;
+}
+#zhi p{
+    line-height: 40px;
+    margin-left: 20px;
+}
+#li{
+    border:1px solid #f1f1f1;
+    margin-top: 30px;
+}
+#li table{
+    width:905px;
+    height: 475px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+#xu{
+    background: #f1f1f1;
+    height: 75px;
+   
+}
+#xu div{
+    width:80px;
+    height: 20px;
+    background: #656665;
+    border-radius: 3px;
+    color:white;
+}
+#kong{
+    height: 125px;
+}
+#tian{
+    height: 25px;
+    background: #f1f1f1;
+}
+input,select{
+    border:2px solid #f1f1f1;
+}
+#q{
+    margin-left: 27px;
+}
+#bai{
+    margin-left: 66px;
+    width:257px;
+}
+#hou{
+    width:115px;
+    height: 30px;
+    background: #f30020;
+    line-height: 30px;
+    text-align: center;
+    color:white;
+    margin-left: 66px;
+}
+#mainhh{
+    margin:0 auto;
+    width:1350px;   
+    overflow: hidden;
+}
